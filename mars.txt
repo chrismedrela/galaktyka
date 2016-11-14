@@ -1,5 +1,7 @@
-Mars jest czwarta planeta.
+Mars jest czwarta planeta od Slonca.
 
 Mars to czerwona planeta.
 
 Mars, mars, mars.
+
+Jeszcze jedna zmiana.
