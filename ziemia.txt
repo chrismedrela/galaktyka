@@ -1,1 +1,3 @@
 Ziemia jest trzecia planeta.
+
+Kolejna zmiana w master.
